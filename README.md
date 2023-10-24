@@ -3,7 +3,7 @@
 - Diseño Gráfico: Explora programas de diseño como **Adobe Photoshop** e *Illustrator* para crear imágenes atractivas.
 - Diseño Web: Aprende a utilizar herramientas de diseño web como *Adobe XD* o **Figma** para crear prototipos de sitios web.
 
-## Nivel 4: Desarrollo Web (HTML y CSS)
+## Nivel 2: Desarrollo Web (HTML y CSS)
 - HTML y CSS Fundamentals: Comienza con lo básico del desarrollo web, aprendiendo a escribir HTML para estructurar contenido y CSS para darle estilo.
 - Diseño Responsivo: Aprende a crear sitios web que se adapten a diferentes dispositivos y tamaños de pantalla.
 - Frameworks de CSS: Explora frameworks como Bootstrap o Foundation para acelerar el proceso de diseño web.
