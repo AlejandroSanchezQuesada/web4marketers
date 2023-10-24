@@ -1,5 +1,3 @@
-**Recomendado**
-*Alternativa*
 
 ## Nivel 1: Diseño Gráfico y Web
 - Diseño Gráfico: Explora programas de diseño como **Adobe Photoshop** e *Illustrator* para crear imágenes atractivas.
@@ -14,3 +12,7 @@
 - **WordPress**: Domina la plataforma de gestión de contenido WordPress, aprendiendo a instalar temas, plugins y a crear contenido.
 - **Woocommerce**: Adéntrate en el comercio electrónico utilizando Woocommerce para configurar tiendas en línea.
 - *Otros CMS*: Puedes investigar también sobre otros de los CMS más populares para tiendas online como Prestashop, Shopify.
+
+
+**Recomendado**
+*Alternativa*
